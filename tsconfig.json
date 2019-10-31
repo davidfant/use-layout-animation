@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+      "outDir": "build",
+      "types": [
+        "react",
+        "react-native"
+      ],
+      "skipLibCheck": true,
+      "declaration": true,
+      "sourceMap": true
+    },
+    "include": [
+      "src/**/*"
+    ]
+  }
+  
