@@ -1,6 +1,6 @@
 {
     "name": "use-layout-animation",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "description": "A React hook for easily using React Native's LayoutAnimation",
     "repository": {
         "type": "git",
